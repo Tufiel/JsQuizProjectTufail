@@ -135,6 +135,7 @@ button{
 	justify-content: space-around;
 	background-color: rgb(255, 166, 0);
 	padding: 10px;
+	gap:10px;
 }
 
 .questionContainer div input{
